@@ -1,4 +1,4 @@
-# Projeto de Autenticação: Node.js + React
+# Cadastro de usuários, login com autenticação e lista de usuários: Node.js
 
 Este projeto implementa um sistema de autenticação simples usando **Node.js (Express + Prisma)** no backend e **React (vite, axios)** no frontend (`reactLogin`).
 
