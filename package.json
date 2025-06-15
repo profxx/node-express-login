@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@prisma/client": "^6.7.0",
+    "basic": "file:",
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.16.0",
+    "nodemon": "^2.0.15"
+  },
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "Learning Node JS",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Alexandre",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma": "^6.7.0"
+  }
+}
