@@ -1,6 +1,6 @@
-# Cadastro de usuários, login com autenticação e lista de usuários: Node.js
+# API de cadastro de usuários, login com autenticação e lista de usuários: Node.js
 
-Este projeto implementa um sistema de autenticação simples usando **Node.js (Express + Prisma)** no backend e **React (vite, axios)** no frontend (`reactLogin`).
+Este projeto implementa uma API de autenticação simples usando **Node.js (Express + Prisma)** no backend.
 
 ---
 
